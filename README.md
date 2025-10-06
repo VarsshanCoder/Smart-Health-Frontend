@@ -1,7 +1,7 @@
 <!-- 🌐 SmartCare+ Frontend README -->
 
 <p align="center">
-  <img src="https://github.com/VarsshanCoder/smartcare-frontend/assets/banner.png" alt="SmartCare+ Banner" width="100%" />
+  <img src="https://github.com/VarsshanCoder/Smart-Health-Frontend/blob/main/assets/banner.png" alt="SmartCare+ Banner" width="100%" />
 </p>
 
 <h1 align="center">🌈 SmartCare+ — Frontend UI/UX System</h1>
@@ -18,51 +18,39 @@
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
 </p>
 
-## Features
+## 🖌️ Overview  
 
-### 🎯 **Multi-Mode Support**
-- **Aptitude Mode**: Logical reasoning & quantitative problems
-- **Coding Mode**: Algorithms, data structures & programming help
-- **Document Mode**: Analyze & summarize uploaded documents
-- **Quiz Mode**: Practice tests & assessments
-- **Custom Mode**: General conversation
+**SmartCare+ Frontend** is a futuristic, fully-animated UI/UX system built for healthcare intelligence.  
+It’s designed with **Glassmorphism**, **dark neon effects**, and **AI-enhanced interactions** to deliver a seamless digital healthcare experience — connecting **patients, doctors, and hospitals** through beauty and logic.  
 
-### 🎨 **Modern Design**
-- Dark mode by default with light mode option
-- Clean, minimal interface focused on content
-- Responsive design (desktop, tablet, mobile)
-- Custom VarshGpt color palette
-- Smooth animations and transitions
+---
 
-### 💬 **Chat Features**
-- Real-time message streaming
-- Code syntax highlighting
-- File upload support
-- Voice input capability
-- Message reactions and feedback
-- Source citations and references
+## 🌟 Key Highlights  
 
-### 🛠️ **Tools & Context**
-- Integrated code runner
-- Document preview and analysis
-- Quick action buttons
-- Context-aware suggestions
-- Keyboard shortcuts
+✨ **100% Animated UI** — glowing transitions, page morphs, and dynamic element entry  
+🧠 **AI-Ready Components** — integrated chatbot & health insights display  
+🌫️ **Glassmorphism & Dark Mode** — aesthetic, elegant, and easy on the eyes  
+⚡ **Responsive Design** — optimized for desktop, tablet, and mobile  
+🎨 **Modular Architecture** — scalable component system with atomic design  
+🌈 **Smooth User Flow** — optimized UX for patients, doctors, and admins  
 
-### ♿ **Accessibility**
-- Full keyboard navigation
-- ARIA attributes and screen reader support
-- High contrast mode
-- Focus management
-- Keyboard shortcuts overlay
+---
 
-## Tech Stack
+## 🧩 Tech Stack  
 
-- **React 18** with TypeScript
-- **TailwindCSS** for styling
-- **Radix UI** for accessible components
-- **Lucide React** for icons
-- **Context API** for state management
+| Category | Tools & Frameworks |
+|-----------|-------------------|
+| **Core Framework** | React.js / Next.js |
+| **Styling** | TailwindCSS + Framer Motion + Glassmorphism |
+| **Animation** | Framer Motion / GSAP |
+| **State Management** | Zustand / Redux Toolkit |
+| **AI Components** | OpenAI API / Chatbot UI |
+| **API Layer** | Axios / React Query |
+| **Design System** | Shadcn/UI + Custom Motion Components |
+| **Build Tools** | Vite / Next Build / ESLint + Prettier |
+
+---
+
 
 ## Getting Started
 
