@@ -1,6 +1,22 @@
-# VarshGpt - AI Coding & Exam Prep
+<!-- 🌐 SmartCare+ Frontend README -->
 
-A modern, clean UI/UX implementation for VarshGpt - an AI chatbot designed for exam prep, coding help, and productivity. Built with React, TypeScript, and TailwindCSS.
+<p align="center">
+  <img src="https://github.com/VarsshanCoder/smartcare-frontend/assets/banner.png" alt="SmartCare+ Banner" width="100%" />
+</p>
+
+<h1 align="center">🌈 SmartCare+ — Frontend UI/UX System</h1>
+
+<p align="center">
+  <b>Reimagining healthcare through design, motion, and intelligence 🧠💫</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI-Glassmorphism-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Animations-FramerMotion-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design-System-Modern-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
+</p>
 
 ## Features
 
